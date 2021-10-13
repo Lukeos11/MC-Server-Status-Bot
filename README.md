@@ -22,4 +22,4 @@ A simple Minecraft server status bot with auto updating embeds and client status
 9. Start the bot again.
 
 # Credits
-Made by <a href="https://github.com/Lukeos11">Lukeos11</a> with ♥ for Hyperbolt edited for the world! 😀
+Made by <a href="https://github.com/Lukeos11">Lukeos11</a> with ♥ for Hyperbolt and edited for the world to use! 😀
