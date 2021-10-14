@@ -1,6 +1,7 @@
 # MC Server Status Bot
 
 A simple Minecraft server status bot with auto updating embeds and client status.
+Spigot URL: https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/
 
 # TODO:
 - Make the message reset once the status has switched to online.
