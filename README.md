@@ -15,7 +15,7 @@ Spigot URL: https://www.spigotmc.org/resources/mc-discord-server-status-bot.9683
 1. Run `npm i` if you havent already.
 2. Rename `.env.sample` to `.env`
 3. Rename `config.json.sample` to `config.json`
-4. Edit the `config.json` file to your liking (I reccommend setting this up fully before you start the bot to minimise errors)
+4. Edit the `config.json` file to your liking (I recommend setting this up fully before you start the bot to minimise errors)
 5. Fill in the Discord bot's Token, Server IP, Port, Display IP and the channel where you want the message embed to go in the `.env` file.
 6. Start the bot using `node .`
 7. Stop the bot once the message has been sent.
