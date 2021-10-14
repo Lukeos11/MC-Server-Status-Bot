@@ -6,6 +6,7 @@ Spigot URL: https://www.spigotmc.org/resources/mc-discord-server-status-bot.9683
 # TODO:
 - Make the message reset once the status has switched to online.
 - Create a plugin so the status can update fast or learn more about Minecraft servers to remove caching.
+- Maybe add a pinging system when the status updates.
 
 # Start The Bot:
 1. Run `npm i`
