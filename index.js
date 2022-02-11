@@ -133,7 +133,7 @@ function updateStatus() {
     if (maintenanceMode === true) {
         client.user.setPresence({ activities: [{ name: config.customStatus.maintenance, type: config.customStatus.maintenanceType }], status: config.customStatus.maintenanceStatus });
     } else if (currentlyOnline === true) {
-        client.user.setPresence({ activities: [{ name: config.customStatus.online.replace('{online/max}', currentPlayers), type: config.customStatus.onlineType }], status: config.customStatus.onlineStatus });
+        client.user.setPresence({ activities: [{ name: config.customStatus.online.replace('{online/max}', currentPlayers).replace('{online}/{max}', currentPlayers), type: config.customStatus.onlineType }], status: config.customStatus.onlineStatus });
     } else {
         client.user.setPresence({ activities: [{ name: config.customStatus.offline, type: config.customStatus.offlineType }], status: config.customStatus.offlineStatus });
     }
