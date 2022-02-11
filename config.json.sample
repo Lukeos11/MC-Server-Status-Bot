@@ -24,7 +24,7 @@
         "footer": "This message updates every 30 seconds! Some information could be incorrect due to caching reasons!"
     }, 
     "customStatus": {
-        "online": "With {online}/{max}!",
+        "online": "With {online/max}!",
         "onlineType": "PLAYING",
         "onlineStatus": "online",
         "maintenance": "The Developers!",
